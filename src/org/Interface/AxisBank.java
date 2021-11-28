@@ -7,5 +7,7 @@ public interface AxisBank {
 	void fixed();
 	
 	void sysout();
+	
+	void tc01();
 
 }
