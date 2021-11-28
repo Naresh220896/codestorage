@@ -27,4 +27,14 @@ public class CitiBank implements AxisBank {
 		
 	}
 
+	@Override
+	public void sysout() {
+		// TODO Auto-generated method stub
+		
+	}
+	private void tc01() {
+		
+
+	}
+
 }
